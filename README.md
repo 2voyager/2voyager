@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Raghav
-- 👀 I’m interested in Ruby/Rails/React/Rust
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Ruby/Rails/React/Java/Springboot/Rust.
 
 <!---
 2voyager/2voyager is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
